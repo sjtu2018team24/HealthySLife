@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d7a23f4f02882ced66d4cfb223285a8f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\79fec65395d527db2a93054903fb520c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\29d0a218d255cd46b7ceacc412c919fa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\63238c3b5f171dd2cb30a4d626a1e5d7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\bd61b2ae498971384a8c273312782554\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\c9063bad4d4d726a16fa99fa4ed25079\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\15b2f01c2dee4f63e5aef5954f46e49c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\960619be6bdf2ab86490ee521e96f329\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\7fbae33b91370addd36f9ff2716f6ec7\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:3:5-17
+		INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d7a23f4f02882ced66d4cfb223285a8f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d7a23f4f02882ced66d4cfb223285a8f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\79fec65395d527db2a93054903fb520c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\79fec65395d527db2a93054903fb520c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\29d0a218d255cd46b7ceacc412c919fa\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\29d0a218d255cd46b7ceacc412c919fa\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\63238c3b5f171dd2cb30a4d626a1e5d7\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\63238c3b5f171dd2cb30a4d626a1e5d7\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\bd61b2ae498971384a8c273312782554\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\bd61b2ae498971384a8c273312782554\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\c9063bad4d4d726a16fa99fa4ed25079\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\c9063bad4d4d726a16fa99fa4ed25079\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\15b2f01c2dee4f63e5aef5954f46e49c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\15b2f01c2dee4f63e5aef5954f46e49c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\960619be6bdf2ab86490ee521e96f329\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\960619be6bdf2ab86490ee521e96f329\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\7fbae33b91370addd36f9ff2716f6ec7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\7fbae33b91370addd36f9ff2716f6ec7\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:11:9-36
+	android:allowBackup
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:9:9-35
+activity#ui.welcome
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:15:19-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#ui.mainActivity
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:22:19-47
+activity#ui.foundLocalActivity
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:23:9-65
+	android:name
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:23:19-53
+activity#ui.seachActivity
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:24:19-48
+service#service.playMusicService
+ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:25:9-68
+	android:name
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml:25:18-57
+uses-sdk
+INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d7a23f4f02882ced66d4cfb223285a8f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d7a23f4f02882ced66d4cfb223285a8f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\79fec65395d527db2a93054903fb520c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\79fec65395d527db2a93054903fb520c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\29d0a218d255cd46b7ceacc412c919fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\29d0a218d255cd46b7ceacc412c919fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\63238c3b5f171dd2cb30a4d626a1e5d7\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\63238c3b5f171dd2cb30a4d626a1e5d7\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\bd61b2ae498971384a8c273312782554\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\bd61b2ae498971384a8c273312782554\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\c9063bad4d4d726a16fa99fa4ed25079\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\c9063bad4d4d726a16fa99fa4ed25079\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\15b2f01c2dee4f63e5aef5954f46e49c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\15b2f01c2dee4f63e5aef5954f46e49c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\960619be6bdf2ab86490ee521e96f329\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\960619be6bdf2ab86490ee521e96f329\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\7fbae33b91370addd36f9ff2716f6ec7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\7fbae33b91370addd36f9ff2716f6ec7\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d7a23f4f02882ced66d4cfb223285a8f\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\Desktop\musicPlay-master\app\src\main\AndroidManifest.xml

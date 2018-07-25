@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\addmusic.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xhdpi\\addmusic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\lastmusic.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xhdpi\\lastmusic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\xunhuan.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xhdpi\\xunhuan.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\more.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xhdpi\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\seach.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xhdpi\\seach.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\last.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xhdpi\\last.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\stopmusic.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xhdpi\\stopmusic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\nextmusic.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xhdpi\\nextmusic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

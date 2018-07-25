@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\found.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\found.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\radommusic.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\radommusic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\onemusic.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\onemusic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\playmusic.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\playmusic.png"
+    }
+]

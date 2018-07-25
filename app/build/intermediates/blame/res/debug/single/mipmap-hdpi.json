@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\delete.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\playing.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-hdpi\\playing.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\DELL\\Desktop\\musicPlay-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
